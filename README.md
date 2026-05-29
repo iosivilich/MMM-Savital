@@ -188,5 +188,5 @@ El caso analiza la categoría de cuidado capilar en Colombia con datos reales de
 ## Autor
 
 **Iosiv Ruiz**
-Estudiante de Marketing — Universidad Externado de Colombia
+Estudiante de Ciencia de Datos con enfoque en Marketing — Universidad Externado de Colombia
 [iosivruiz@gmail.com](mailto:iosivruiz@gmail.com)
