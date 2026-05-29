@@ -100,14 +100,25 @@ TOM_Savital ~ f(inv_Savital, inv_Pantene, inv_NutriBela,
 
 ## Visualizaciones del modelo
 
-<!-- Agrega aquí las imágenes de tu presentación -->
-<!-- Ejemplo: -->
-<!-- ![Dashboard MMM1](images/mmm1/MMM1_dashboard.png) -->
-<!-- ![SOI vs SOC MMM1](images/mmm1/SOI_vs_SOC.png) -->
-<!-- ![Dashboard MMM2](images/mmm2/MMM2_dashboard.png) -->
-<!-- ![Curva de respuesta Savital](images/mmm2/Curva.png) -->
+### Modelo de Categoría (MMM1)
 
-*Pendiente: agregar capturas de las gráficas de la presentación final.*
+![Dashboard MMM1](images/mmm1/MMM1_dashboard.png)
+
+![SOI vs SOC por Medio](images/mmm1/SOI_vs_SOC.png)
+
+![Diferencia SOC − SOI](images/mmm1/Diff_SOC_SOI.png)
+
+![ROI por Medio](images/mmm1/ROI.png)
+
+### Modelo Competitivo (MMM2)
+
+![Dashboard MMM2](images/mmm2/MMM2_dashboard.png)
+
+![SOI vs SOC por Marca](images/mmm2/SOI_vs_SOC.png)
+
+![Contribución al TOM por Marca](images/mmm2/Contribucion_TOM.png)
+
+![Curva de Respuesta — Savital](images/mmm2/Curva.png)
 
 ---
 
