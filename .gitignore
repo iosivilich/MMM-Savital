@@ -1,0 +1,29 @@
+# ── R environment ──────────────────────────────────────────────────────────────
+.RData
+.RDataTmp
+.Rhistory
+.Rapp.history
+.Renviron
+*.RData
+
+# ── RStudio ────────────────────────────────────────────────────────────────────
+.Rproj.user/
+*.Rproj
+
+# ── DATOS CONFIDENCIALES (Caso Unilever/Savital) ───────────────────────────────
+# Nunca subir datos reales al repositorio público.
+data/
+
+# ── Archivos de datos en cualquier ubicación ──────────────────────────────────
+*.csv
+!data_example/*.csv
+
+*.xlsx
+*.xls
+
+# ── Outputs de Robyn (archivos pesados generados por el modelo) ───────────────
+outputs/
+
+# ── Archivos temporales del sistema ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
